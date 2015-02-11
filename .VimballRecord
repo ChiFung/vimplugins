@@ -1,0 +1,1 @@
+tagbar.vmb: call delete('/Users/cslc/.vim/README.md')|call delete('/Users/cslc/.vim/autoload/tagbar.vim')|call delete('/Users/cslc/.vim/doc/tagbar.txt')|call delete('/Users/cslc/.vim/plugin/tagbar.vim')|call delete('/Users/cslc/.vim/syntax/tagbar.vim')
